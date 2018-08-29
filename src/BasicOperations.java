@@ -14,7 +14,7 @@ public class BasicOperations
 
         int resta = number1 - number2;
 
-        int division=number1 / number2;
+        int division=number1/number2;
 
         int multiplicacion=number1 * number2;
 
