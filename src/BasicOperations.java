@@ -6,13 +6,13 @@ public class BasicOperations
     {
 
 
-        int number1 = Integer.parseInt(JOptionPane.showInputDialog("Enter a Number"));
+        int number1 = Integer.parseInt(JOptionPane.showInputDialog("Enter a number"));
 
         int number2 = Integer.parseInt(JOptionPane.showInputDialog("Enter a Number"));
 
         int suma=number1 +number2;
 
-        int resta=number1 - number2;
+        int resta = number1 - number2;
 
         int division=number1 / number2;
 
