@@ -6,7 +6,7 @@ public class BasicOperations
     {
 
 
-        int number1 = Integer.parseInt(JOptionPane.showInputDialog("Enter a Number"));
+        int number1 = Integer.parseInt(JOptionPane.showInputDialog("Enter a number"));
 
         int number2 = Integer.parseInt(JOptionPane.showInputDialog("Enter a Number"));
 
@@ -14,7 +14,7 @@ public class BasicOperations
 
         int resta = number1 - number2;
 
-        int division=number1/number2;
+        int division=number1 / number2;
 
         int multiplicacion=number1 * number2;
 
