@@ -12,7 +12,7 @@ public class BasicOperations
 
         int suma=number1 +number2;
 
-        int resta=number1 - number2;
+        int resta = number1 - number2;
 
         int division=number1 / number2;
 
