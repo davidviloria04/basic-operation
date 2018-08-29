@@ -10,7 +10,7 @@ public class BasicOperations
 
         int number2 = Integer.parseInt(JOptionPane.showInputDialog("Enter a Number"));
 
-        int suma=number1 + number2;
+        int suma=number1 +number2;
 
         int resta=number1 - number2;
 
